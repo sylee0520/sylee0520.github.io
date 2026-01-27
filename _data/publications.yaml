@@ -7,14 +7,14 @@ papers:
     
   - title: "The CoT Encyclopedia: Analyzing, Predicting, and Controlling how a Reasoning Model will Think"
     authors: "<b><u>Seongyun Lee</u></b>, Seungone Kim, Minju Seo, Yongrae Jo, Dongyoung Go, Hyeonbin Hwang, Jinho Park, Xiang Yue, Sean Welleck, Graham Neubig, Moontae Lee, Minjoon Seo"
-    venue: "Preprint"
+    venue: "ICLR 2026"
     paper_pdf: "https://arxiv.org/abs/2505.10185"
     code: "https://github.com/LGAI-Research/CoT-Encyclopedia"
     selected: y
 
   - title: "Paper2code: Automating code generation from scientific papers in machine learning"
     authors: "Minju Seo, Jinheon Baek, <b><u>Seongyun Lee</u></b>, Sung Ju Hwang"
-    venue: "Preprint"
+    venue: "ICLR 2026"
     paper_pdf: "https://arxiv.org/abs/2504.17192"
     code: "https://github.com/going-doer/Paper2Code"
     selected: y

@@ -1,7 +1,7 @@
 papers:
   - title: "Lost in the Noise: How Reasoning Models Fail with Contextual Distractors"
     authors: "<b><u>Seongyun Lee</u></b>, Yongrae Jo, Minju Seo, Moontae Lee, Minjoon Seo"
-    venue: "[Spotlight, Oral] ICLR 2026 Workshop on Agents in the Wild: Safety, Security, and Beyond"
+    venue: "<b>[Spotlight]</b> ICLR 2026 Workshop on Agents in the Wild: Safety, Security, and Beyond"
     paper_pdf: "https://arxiv.org/abs/2601.07226"
     selected: y
     
@@ -21,7 +21,7 @@ papers:
     
   - title: "Scaling evaluation-time compute with reasoning models as process evaluators"
     authors: "Seungone Kim, Ian Wu, Jinu Lee, Xiang Yue, <b><u>Seongyun Lee</u></b>, Mingyeong Moon, Kiril Gashteovski, Carolin Lawrence, Julia Hockenmaier, Graham Neubig, Sean Welleck"
-    venue: "Preprint"
+    venue: "ACL 2026 Findings"
     paper_pdf: "https://arxiv.org/abs/2503.19877"
     selected: y
 

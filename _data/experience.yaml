@@ -1,4 +1,10 @@
 experiences:
+- place: "Amazon"
+  time: "Apr 2025 - Dec 2025"
+  title: "Applied Scientist Intern (Mentors: Song Feng)"
+  subtitle: "Researching on RL and Agentic AI"
+  category: "work"
+  
 - place: "KAIST COCO Lab & LK Lab"
   time: "Sep. 2025 - Present"
   title: "Ph.D. Student (Advisor: Hyunwoo Kim and Minjoon Seo)"
